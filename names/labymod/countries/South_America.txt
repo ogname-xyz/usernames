@@ -1,0 +1,14 @@
+argentina
+bolivia
+bouvet
+brazil
+chile
+colombia
+ecuador
+guiana
+guyana
+paraguay
+peru
+suriname
+uruguay
+venezuela
